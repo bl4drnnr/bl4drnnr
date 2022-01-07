@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bl4drnnr
 - 👀 I’m interested in coding, network technologies, DevOpsing and cybersecurity
-- 🌱 I’m currently learning JS, TS, Python, C# etc.
+- 🌱 I’m currently learning JavaScript, TypeScript, Python, C# etc.
 - 📫 How to reach me - bl4drnnr@protonmail.com

@@ -6,8 +6,8 @@ A Software Engineer specializing in mostly JavaScript and web technologies. Prof
 Interested in coding - web development ⚡️ and AI (make computers do beep-boop 🤖 ), network technologies 📡 , DevOps staff and cybersecurity 🛡.
 
 A small list of hobbies I'm interested in besides programming:
-- Trading 💰
-- Playing electro guitar 🎸
+- Trading, economic and investments 💰
+- Playing electro guitar (I could be a rock star :( ) 🎸
 ---
 
 🧰 Toolbox

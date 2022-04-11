@@ -3,11 +3,25 @@
 
 A Software Engineer specializing in mostly JavaScript and web technologies. Professional experience with the technologies listed in the **toolbox** below.
 
-Interested in web development, network technologies, DevOps staff, cybersecurity and AI.
+Interested in coding - web development and AI, network technologies, DevOps staff and cybersecurity.
 
+A small list of things I'm interested in besides programming:
+- Trading 💰
+- Playing electro guitar 🎸
 ---
 
 🧰 Toolbox
 
+- 🏅 Javascript:
+  * Vue.js
+  * React
+  * Nuxt.js
+  * Node.js
+  * Express
+- 🐍 Python:
+  * Django
+- C#, ASP.NET Core (MVC)
 ---
+
 - 📫 How to reach me: bl4drnnr@protonmail.com
+- 🔑 PGP: 

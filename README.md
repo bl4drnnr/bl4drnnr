@@ -3,7 +3,7 @@
 
 A Software Engineer specializing in mostly JavaScript and web technologies. Professional experience with the technologies (programming languages, frameworks and more) listed in the **toolbox** below.
 
-Interested in coding - web development ⚡️ and AI (make computers do beep-boop 🤖 ), network technologies 📡 , DevOps staff and cybersecurity 🛡.
+Interested in coding - web development ⚡️ and AI 🤖, network technologies 📡 , DevOps staff and cybersecurity 🛡.
 
 A small list of hobbies I'm interested in besides programming:
 - Trading, economic and investments 💰

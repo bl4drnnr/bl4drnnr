@@ -7,7 +7,7 @@ Interested in coding - web development ⚡️ and AI (make computers do beep-boo
 
 A small list of hobbies I'm interested in besides programming:
 - Trading, economic and investments 💰
-- Playing electro guitar (I could be a rock star :( ) 🎸
+- Playing electro guitar (I could be a rock star) 🎸
 ---
 
 🧰 Toolbox

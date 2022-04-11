@@ -3,7 +3,7 @@
 
 A Software Engineer specializing in mostly JavaScript and web technologies. Professional experience with the technologies listed in the **toolbox** below.
 
-Interested in coding - web development ⚡️ and AI (make computers do beep-boop 🤖 ), network technologies 📡 , DevOps staff and cybersecurity.
+Interested in coding - web development ⚡️ and AI (make computers do beep-boop 🤖 ), network technologies 📡 , DevOps staff and cybersecurity 🛡.
 
 A small list of things I'm interested in besides programming:
 - Trading 💰
@@ -13,19 +13,16 @@ A small list of things I'm interested in besides programming:
 🧰 Toolbox
 
 - 🏅 Javascript:
-  * Vue.js
-  * React
-  * Nuxt.js
-  * Node.js
-  * Express
-- 🐍 Python:
+  * Vue.js, React, Nuxt.js, Node.js, Express
+
+- 🐍 Python (mostly used for AI):
   * Django
+
 - 💻 C#:
- * ASP.NET Core (MVC)
+  * ASP.NET Core (MVC)
+
 - 📜 DB:
- * PostgeSQL
- * MySQL
- * MongoDB
+  * PostgeSQL, MySQL, MongoDB
 
 Other technologies:
 - AWS, Docker

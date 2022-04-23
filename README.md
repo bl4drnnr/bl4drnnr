@@ -1,7 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, here is bl4drnnr!
+### Hi there, here is bl4drnnr! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ---
 
-A Software Engineer specializing in mostly JavaScript and web technologies. Professional experience with the technologies (programming languages, frameworks and more) listed in the **toolbox** below.
+A Software Engineer specializing in mostly JavaScript/TypeScript and web technologies. 
+
+Professional experience with the technologies (programming languages, frameworks and more) listed in the **toolbox** below.
 
 Interested in coding - web development ⚡️ and AI 🤖, network technologies 📡 , DevOps staff and cybersecurity 🛡.
 

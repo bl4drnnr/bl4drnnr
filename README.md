@@ -1,7 +1,6 @@
 ### Hi there, here is bl4drnnr! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
----
 
-A Software Engineer specializing in mostly JavaScript/TypeScript and web technologies. 
+A Software Engineer specializing in mostly JavaScript/TypeScript and web technologies.
 
 Professional experience with the technologies (programming languages, frameworks and more) listed in the **toolbox** below.
 

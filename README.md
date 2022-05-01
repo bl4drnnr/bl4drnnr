@@ -9,7 +9,7 @@ Mostly interested in - web development ⚡️, AI 🤖, network technologies �
 ---
 
 🧰 Toolbox
-https://github.com/get-icon/geticon/blob/master/icons/express.svg
+
 1. Main stack
 
 - TypeScript <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> / JavaScript

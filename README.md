@@ -9,13 +9,14 @@ Mostly interested in - web development ⚡️, AI 🤖, network technologies �
 ---
 
 🧰 Toolbox
-
+https://github.com/get-icon/geticon/blob/master/icons/express.svg
 1. Main stack
 
 - TypeScript <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> / JavaScript
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a> 
-   * Front-end: Vue.js <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>, Nuxt.js <a title="Nuxt"><img src="https://github.com/get-icon/geticon/blob/master/icons/nuxt-icon.svg" alt="Nuxt" width="21px" height="21px"></a>, React <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>, Next.js
-   * Back-end: Node.js <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> - Express, Nest.js <a href="https://nestjs.com/" title="Nest.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/nestjs.svg" alt="Nest.js" width="21px" height="21px"></a>
+   * Front-end: Vue.js <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>, Nuxt.js <a title="Nuxt"><img src="https://github.com/get-icon/geticon/blob/master/icons/nuxt-icon.svg" alt="Nuxt" width="21px" height="21px"></a>, React <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>, Next.js <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/nextjs.svg" alt="Next.js" width="21px" height="21px"></a>
+   * Back-end: Node.js <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> - Express <a href="https://expressjs.com/" title="Express.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" alt="Express.js" width="21px" height="21px"></a>
+, Nest.js <a href="https://nestjs.com/" title="Nest.js"><img src="https://github.com/get-icon/geticon/blob/master/icons/nestjs.svg" alt="Nest.js" width="21px" height="21px"></a>
 
 2. Secondary stack
 

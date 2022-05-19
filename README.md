@@ -4,7 +4,7 @@ A Software Engineer specializing in mostly JavaScript/TypeScript and web technol
 
 Professional experience with the technologies (programming languages, frameworks and more) listed in the **toolbox** below.
 
-Mostly interested in - web development ⚡️, AI 🤖, network technologies 📡 , DevOps staff 💻 and cybersecurity 🛡.
+Mostly interested in - web development ⚡️, network technologies 📡 , DevOps staff 💻 and cybersecurity 🛡.
 
 ---
 

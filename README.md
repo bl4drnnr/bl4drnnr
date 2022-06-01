@@ -1,4 +1,4 @@
-### Hi there, here is bl4drnnr! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, here is bl4drnnr!
 
 A Software Engineer specializing in mostly JavaScript/TypeScript and web technologies.
 

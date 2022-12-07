@@ -1,6 +1,6 @@
 ### Software Engineer / Security Operations Specialist
 
-Mostly interested in - web development, network technologies, Development & Operations and cybersecurity.
+Mostly interested in - Web Development, WEB3, Network Technologies, Development & Operations and Cybersecurity.
 
 ---
 

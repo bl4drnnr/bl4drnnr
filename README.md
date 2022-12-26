@@ -1,9 +1,12 @@
-### Software Engineer / Security Operations Specialist
+<h3 align="center">
+  Software Engineer / Security Operations Specialist
+</h3>
 
-Mostly interested in - **Web Development**, **WEB3**, **Network Technologies**, **Development & Operations and Cybersecurity**.
+<p align="center">
+  <strong>Web Development</strong>, <strong>WEB3</strong>, <strong>Network Technologies</strong>, <strong>Development & Operations and Cybersecurity</strong>.
+</p>
 
 
 - How to reach me: [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
-- PGP: [8773E25F4E5B06F60AD9A04151E343BA669AD317](https://keys.openpgp.org/vks/v1/by-fingerprint/8773E25F4E5B06F60AD9A04151E343BA669AD317)
-- My portfolio: [About me](https://bl4drnnr.github.io/portfolio-page/)
 - Social media: [LinkedIn](https://www.linkedin.com/in/mikhail-bahdashych-a8561a209/)
+- Portfolio: [see here](https://bl4drnnr.github.io/portfolio-page/)

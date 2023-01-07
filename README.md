@@ -9,4 +9,3 @@
 
 - How to reach me: [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - Social media: [LinkedIn](https://www.linkedin.com/in/mikhail-bahdashych-a8561a209/)
-- Portfolio: [see here](https://bl4drnnr.github.io/portfolio-page/)

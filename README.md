@@ -7,5 +7,5 @@
 </p>
 
 
-- How to reach me -- [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
+- How to reach me - [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
 - Social media: [LinkedIn](https://www.linkedin.com/in/mikhail-bahdashych-a8561a209/)

@@ -7,5 +7,5 @@
 </p>
 
 - How to reach me out - [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
-- Place, where I share my thoughts: [My blog](https://blog.mikhailbahdashych.me)
+- The place where I share my thoughts and knowledge: [My blog](https://blog.mikhailbahdashych.me)
 - Social media: [LinkedIn](https://www.linkedin.com/in/mikhail-bahdashych-a8561a209/)

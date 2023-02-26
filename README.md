@@ -6,6 +6,7 @@
   <strong>Web Development</strong>, <strong>WEB3</strong>, <strong>Network Technologies</strong>, <strong>Development & Operations and Cybersecurity</strong>.
 </p>
 
-- How to reach me out - [contact@mikhailbahdashych.me](mailto:contact@mikhailbahdashych.me)
-- The place where I share my thoughts and knowledge: [My blog](https://blog.mikhailbahdashych.me)
-- Social media: [LinkedIn](https://www.linkedin.com/in/mikhail-bahdashych-a8561a209/)
+<div align="center">
+  <p>How to reach me out - <a href="mailto:contact@mikhailbahdashych.me">contact@mikhailbahdashych.me</a></p>
+  <p>The place where I share my thoughts and knowledge - <a href="https://blog.mikhailbahdashych.me">blog.mikhailbahdashych.me</a></p>
+</div>

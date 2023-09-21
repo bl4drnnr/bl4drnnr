@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-  <strong>Web Development</strong>, <strong>WEB3</strong>, <strong>Network Technologies</strong>, <strong>Development & Operations and Cybersecurity</strong>.
+  Web Development / WEB3 / Network Technologies / Development & Operations / Cybersecurity.
 </h3>
 
 <div align="center">

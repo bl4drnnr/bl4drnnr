@@ -1,5 +1,5 @@
 <h2 align="center">
-  SecOps / Software Engineer
+  Cybersecurity Engineer / Software Engineer
 </h2>
 
 <h3 align="center">

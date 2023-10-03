@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-  Web Development / WEB3 / Networking / DevOps / Cybersecurity
+  Web Development / Crypto / Networking / DevOps / Cybersecurity
 </h3>
 
 <div align="center">

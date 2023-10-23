@@ -1,5 +1,5 @@
 <h2 align="center">
-  Cybersecurity Engineer / Software Engineer
+  Cybersecurity / Software Engineer
 </h2>
 
 <h3 align="center">

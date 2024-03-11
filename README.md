@@ -8,5 +8,5 @@
 
 <div align="center">
   <p>The place where I share my thoughts and knowledge: <a href="https://mikhailbahdashych.me">mikhailbahdashych.me</a></p>
-  <p>Contact email address: <a href="mailto:contact@mikhailbahdashych.me">contact@mikhailbahdashych.me</a></p>
+  <p>Contact address: <a href="mailto:contact@mikhailbahdashych.me">contact@mikhailbahdashych.me</a></p>
 </div>

@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-  Web Development / Networking / DevOps / Cybersecurity / AI
+  Web Development / Networking / DevOps / Cybersecurity / AI & ML
 </h3>
 
 <div align="center">
